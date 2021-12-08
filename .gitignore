@@ -112,3 +112,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Day 5/input_puzzle_diego.txt
+Day 5/diego1.py
