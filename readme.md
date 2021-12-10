@@ -4,3 +4,4 @@
 - [Day 3](./Day%203/statement.md)
 - [Day 4](./Day%204/statement.md)
 - [Day 5](./Day%205/statement.md)
+- [Day 6](./Day%206/statement.md)
